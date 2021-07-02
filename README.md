@@ -1,7 +1,7 @@
-**The Idea
-***Type of Game
+#The Idea
+##Type of Game
 	Roleplay
-***Code Language
+##Code Language
 	Python
-***Style
+##Style
 	Old Style (e.g.: pokemon original pc game, original zelda)
